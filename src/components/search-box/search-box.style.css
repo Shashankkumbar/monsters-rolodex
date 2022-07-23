@@ -1,0 +1,21 @@
+.search-box {
+  -webkit-appearance: none;
+  border: none;
+  outline: none;
+  padding: 10px;
+  width: 150px;
+  line-height: 30px;
+  margin-bottom: 30px;
+}
+/* .card-list {
+  background-color: red;//adding any style to any other component other than search box component but not recommended so only use css to that specific component
+} */
+/* .monsters-search-box {//code to understand css
+  -webkit-appearance: none;
+  border: none;
+  outline: none;
+  padding: 10px;
+  width: 100px;
+  line-height: 20px;
+  margin-bottom: 10px;
+} */
